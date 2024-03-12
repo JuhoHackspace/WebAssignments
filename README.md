@@ -1,2 +1,2 @@
 # WebAssignments
-Tämä repo sisältää kurssin Web sovellusten perusteet viikkotehtävien ratkaisut
+Tämä repo sisältää kurssin Web sovellusten perusteet viikkotehtävien ratkaisut.
